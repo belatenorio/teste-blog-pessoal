@@ -1,2 +1,2 @@
-# teste-blog-pessoal
+# Teste blog pessoal
 Desafio DIO blog pessoal
